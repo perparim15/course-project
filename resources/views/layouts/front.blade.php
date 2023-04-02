@@ -22,7 +22,7 @@
     <header class="header" id="header">
       <div class="nav container">
         <a href="{{ route('home') }}" class="nav-logo">
-        <i class='bx bx-compass'></i> BERAJAH
+        <i class='bx bx-compass'></i> PIPO
         </a>
 
         <div class="nav-menu" id="nav-menu">
